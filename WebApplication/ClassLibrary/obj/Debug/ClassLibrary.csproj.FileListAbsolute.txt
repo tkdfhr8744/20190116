@@ -1,0 +1,14 @@
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\MySql.Data.dll
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\MySql.Data.xml
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\GDC3\source\repos\WebApplication\ClassLibrary\obj\Debug\ClassLibrary.pdb
